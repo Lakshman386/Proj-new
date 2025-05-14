@@ -214,12 +214,9 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              I’m a results-driven DevOps Engineer passionate about building scalable infrastructure, 
-              automating deployments, and bridging the gap between development and operations.
-              At GreatCoder Technologies, I’ve led the implementation of CI/CD pipelines using 
-              Jenkins and GitHub Actions, containerized applications with Docker, and deployed 
-              scalable environments on AWS and Kubernetes. I’ve also provisioned infrastructure 
-              using Terraform, automated deployments with Ansible, and configured monitoring using Prometheus and Grafana.
+              Led full DevOps lifecycle at GreatCoder Technologies—built CI/CD with Jenkins & GitHub Actions, 
+              containerized with Docker, deployed on AWS & Kubernetes. Delivered 60% faster deployments, 99.9% 
+              uptime, and cut cloud costs by 35%. AWS-certified, with a passion for scalable automation and GenAI in DevOps.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
